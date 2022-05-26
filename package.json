@@ -1,6 +1,9 @@
 {
   "name": "col-ycweather.com",
   "version": "0.0.0",
+  "installConfig": {
+    "pnp": true
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
