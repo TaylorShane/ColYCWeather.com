@@ -1,3 +1,5 @@
+![example workflow](https://github.com/TaylorShane/ColYCWeather.com/actions/workflows/node.js.yml/badge.svg)
+
 # ColYCWeather.Com
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
