@@ -1,0 +1,6 @@
+.vscode/*
+.angular/*
+docs/*
+*.yml
+dist/*
+e2e/*
